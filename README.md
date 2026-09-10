@@ -23,7 +23,7 @@ The current IT recruitment market suffers from excessive prejudice and suspicion
 
 ### Magyar változat
 
-# Problem Solving & Modern Development Manifesto
+# Probléma Megoldás & Modern Fejlesztés Manifesto
 
 > *„A Linux admin, DevOps vagy fejlesztői munka probléma-megoldóképesség nélkül lehetetlen.”*
 
